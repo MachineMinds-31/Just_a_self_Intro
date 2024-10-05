@@ -1,0 +1,3 @@
+-I am a passionate enthusiast in Data Science, Data Analysis, and Machine Learning. 
+-This repository showcases my projects as I build my portfolio, focusing on practical applications of SQL, Python, Machine Learning (ML), Deep Learning (DL), and Data Analysis. 
+-My goal is to develop impactful solutions and demonstrate my skills in leveraging data to drive insights and inform decision-making.
